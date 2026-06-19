@@ -148,7 +148,7 @@ In a short `NOTES.md`, answer in a few sentences each:
    ```
    git push -u origin set-up-claude
    ```
-4. Open a Pull Request and submit it through the platform, which copies your branch for review.
+4. Open a Pull Request against the main repository, not your fork, and submit it through the platform, which copies your branch for review.
 
 Before you submit, make sure that:
 
